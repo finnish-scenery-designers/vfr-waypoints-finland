@@ -1,110 +1,538 @@
 <?xml version='1.0' encoding='ASCII'?>
 <FSData version="9.0">
-  <Waypoint lat="62.0183333" lon="28.5788889" waypointIdent="APAJA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.8000000" lon="27.3083333" waypointIdent="ASEMA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="65.9005556" lon="29.0183333" waypointIdent="AVELA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.2186111" lon="19.7100000" waypointIdent="BROON"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.2663889" lon="25.2091667" waypointIdent="DEGER"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="63.6247222" lon="23.3883333" waypointIdent="EMMET"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="68.5180556" lon="23.3052778" waypointIdent="GALDO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.9938889" lon="25.2088889" waypointIdent="HAAVI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.2086111" lon="24.9000000" waypointIdent="HAGIS"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="68.6380556" lon="26.9997222" waypointIdent="HAMPI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.0619444" lon="29.0458333" waypointIdent="HANHI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.0888889" lon="27.7097222" waypointIdent="HANNA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="65.8327778" lon="24.2925000" waypointIdent="HAPIS"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.3988889" lon="22.5063889" waypointIdent="HARVA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="64.7350000" lon="25.5480556" waypointIdent="HAURU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="66.5088889" lon="26.1169444" waypointIdent="HEINU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.0397222" lon="27.2461111" waypointIdent="HERMU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="68.3850000" lon="23.0569444" waypointIdent="HIRVA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.8480556" lon="27.3266667" waypointIdent="HONKA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.7769444" lon="28.9822222" waypointIdent="IKOIN"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="68.4138889" lon="23.9341667" waypointIdent="JOHKA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.5547222" lon="22.7430556" waypointIdent="JOKIP"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.2133333" lon="28.4211111" waypointIdent="KAITO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.9075000" lon="28.5944444" waypointIdent="KALLI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="63.8683333" lon="23.4938889" waypointIdent="KALVI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.7727778" lon="27.7177778" waypointIdent="KARJU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="68.1200000" lon="23.3800000" waypointIdent="KATKA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="67.6030556" lon="24.5763889" waypointIdent="KENUS"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="66.2258333" lon="29.0475000" waypointIdent="KITKA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="63.1358333" lon="27.9763889" waypointIdent="KOKKO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.4511111" lon="25.0186111" waypointIdent="KOLIS"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.7538889" lon="29.8491667" waypointIdent="KONTI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.0516667" lon="28.5622222" waypointIdent="KONTU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.6875000" lon="22.4652778" waypointIdent="KOSSU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="66.6816667" lon="25.6544444" waypointIdent="KUKSA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.4766667" lon="22.1994444" waypointIdent="KULTA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="67.6113889" lon="25.2427778" waypointIdent="KUMPU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.9833333" lon="29.2775000" waypointIdent="KUONA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.6472222" lon="23.2991667" waypointIdent="KUORA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="68.4361111" lon="27.4058333" waypointIdent="LAANI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.9772222" lon="27.5272222" waypointIdent="LAIVO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.5150000" lon="26.3288889" waypointIdent="LANKA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.9075000" lon="27.8552778" waypointIdent="LENSU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.3238889" lon="25.2086111" waypointIdent="LILJA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.2175000" lon="23.3511111" waypointIdent="LIMPU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.7872222" lon="26.5844444" waypointIdent="LINJA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.7527778" lon="27.5472222" waypointIdent="LINKI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.3797222" lon="24.6844444" waypointIdent="LINTU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.5558333" lon="29.4516667" waypointIdent="LIPPI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="67.8877778" lon="25.0738889" waypointIdent="LOUKI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="63.0902778" lon="27.4216667" waypointIdent="MAANI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="68.8194444" lon="27.5300000" waypointIdent="MAHLA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="64.1372222" lon="27.4241667" waypointIdent="MAINU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.2494444" lon="21.9683333" waypointIdent="MALOP"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.6513889" lon="22.5525000" waypointIdent="MANSE"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.9277778" lon="28.1669444" waypointIdent="MELAN"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.9466667" lon="21.5452778" waypointIdent="MINNE"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.0891667" lon="25.2894444" waypointIdent="MOKSI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.4216667" lon="24.8244444" waypointIdent="MULTI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.1833333" lon="25.0225000" waypointIdent="NOKKA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.6291667" lon="22.0547222" waypointIdent="NOUSU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.8308333" lon="22.9177778" waypointIdent="NURMO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.2308333" lon="24.9877778" waypointIdent="OGELI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.9886111" lon="26.5641667" waypointIdent="ORAVA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="65.6747222" lon="24.8527778" waypointIdent="OUKKI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="68.2700000" lon="23.6619444" waypointIdent="OUNAS"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.5858333" lon="23.7530556" waypointIdent="PALLO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="64.4236111" lon="27.8447222" waypointIdent="PALTA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="63.5961111" lon="22.8066667" waypointIdent="PEDER"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="64.3802778" lon="27.2994444" waypointIdent="PEHKO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.7450000" lon="25.2405556" waypointIdent="PIHLA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="64.9477778" lon="25.6788889" waypointIdent="PILPA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.6019444" lon="25.6116667" waypointIdent="POHJA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.8444444" lon="29.3169444" waypointIdent="POLVI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="65.8058333" lon="29.2750000" waypointIdent="POUSU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.2097222" lon="20.2472222" waypointIdent="PRAST"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.4880556" lon="23.3261111" waypointIdent="PURSO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="66.0433333" lon="28.6436111" waypointIdent="RAITO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.0722222" lon="20.1269444" waypointIdent="RANBO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.1988889" lon="25.0905556" waypointIdent="RASTI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.3594444" lon="21.6497222" waypointIdent="RAUTU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="64.1827778" lon="28.0008333" waypointIdent="RIMPI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.5350000" lon="27.2838889" waypointIdent="RISTI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.3736111" lon="24.0333333" waypointIdent="ROINE"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="65.9469444" lon="24.8994444" waypointIdent="ROLLO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="66.3816667" lon="25.8733333" waypointIdent="ROSKA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.2563889" lon="25.6113889" waypointIdent="RUOKE"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.4197222" lon="25.2441667" waypointIdent="SAHRA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="64.8463889" lon="25.1105556" waypointIdent="SIIKA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.6219444" lon="21.7786111" waypointIdent="SIRMA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.5875000" lon="27.0188889" waypointIdent="SOLMU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="66.5741667" lon="25.4441667" waypointIdent="SONKA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.4919444" lon="29.8280556" waypointIdent="SUHMU"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="66.0872222" lon="29.4227778" waypointIdent="SUINI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="63.8077778" lon="22.8944444" waypointIdent="SUNDI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.7180556" lon="24.3958333" waypointIdent="TALVI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.7991667" lon="25.6877778" waypointIdent="TAPPI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.4047222" lon="26.0519444" waypointIdent="TARVA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="65.0852778" lon="25.3158333" waypointIdent="TASKI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="62.9925000" lon="22.0863889" waypointIdent="TERVA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="67.8641667" lon="24.4097222" waypointIdent="VAARA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="68.5166667" lon="26.8183333" waypointIdent="VASKI"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="63.1577778" lon="21.9777778" waypointIdent="VASSO"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="67.4880556" lon="24.6494444" waypointIdent="VENHE"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="60.3816667" lon="22.1186111" waypointIdent="VESPA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.3013889" lon="23.7175000" waypointIdent="VIILA"  waypointRegion="EF" waypointType="NAMED"/>
-  <Waypoint lat="61.9663889" lon="24.3561111" waypointIdent="VILPU"  waypointRegion="EF" waypointType="NAMED"/>
+<Waypoint lat="62.0183333" lon="28.5788889"
+  waypointRegion="EF" waypointIdent="APAJA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.8000000" lon="27.3083333"
+  waypointRegion="EF" waypointIdent="ASEMA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="65.9005556" lon="29.0183333"
+  waypointRegion="EF" waypointIdent="AVELA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.2186111" lon="19.7100000"
+  waypointRegion="EF" waypointIdent="BROON"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.2663889" lon="25.2091667"
+  waypointRegion="EF" waypointIdent="DEGER"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="63.6247222" lon="23.3883333"
+  waypointRegion="EF" waypointIdent="EMMET"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="68.5180556" lon="23.3052778"
+  waypointRegion="EF" waypointIdent="GALDO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.9938889" lon="25.2088889"
+  waypointRegion="EF" waypointIdent="HAAVI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.2086111" lon="24.9000000"
+  waypointRegion="EF" waypointIdent="HAGIS"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="68.6380556" lon="26.9997222"
+  waypointRegion="EF" waypointIdent="HAMPI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.0619444" lon="29.0458333"
+  waypointRegion="EF" waypointIdent="HANHI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.0888889" lon="27.7097222"
+  waypointRegion="EF" waypointIdent="HANNA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="65.8327778" lon="24.2925000"
+  waypointRegion="EF" waypointIdent="HAPIS"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.3988889" lon="22.5063889"
+  waypointRegion="EF" waypointIdent="HARVA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="64.7350000" lon="25.5480556"
+  waypointRegion="EF" waypointIdent="HAURU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="66.5088889" lon="26.1169444"
+  waypointRegion="EF" waypointIdent="HEINU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.0397222" lon="27.2461111"
+  waypointRegion="EF" waypointIdent="HERMU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="68.3850000" lon="23.0569444"
+  waypointRegion="EF" waypointIdent="HIRVA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.8480556" lon="27.3266667"
+  waypointRegion="EF" waypointIdent="HONKA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.7769444" lon="28.9822222"
+  waypointRegion="EF" waypointIdent="IKOIN"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="68.4138889" lon="23.9341667"
+  waypointRegion="EF" waypointIdent="JOHKA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.5547222" lon="22.7430556"
+  waypointRegion="EF" waypointIdent="JOKIP"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.2133333" lon="28.4211111"
+  waypointRegion="EF" waypointIdent="KAITO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.9075000" lon="28.5944444"
+  waypointRegion="EF" waypointIdent="KALLI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="63.8683333" lon="23.4938889"
+  waypointRegion="EF" waypointIdent="KALVI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.7727778" lon="27.7177778"
+  waypointRegion="EF" waypointIdent="KARJU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="68.1200000" lon="23.3800000"
+  waypointRegion="EF" waypointIdent="KATKA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="67.6030556" lon="24.5763889"
+  waypointRegion="EF" waypointIdent="KENUS"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="66.2258333" lon="29.0475000"
+  waypointRegion="EF" waypointIdent="KITKA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="63.1358333" lon="27.9763889"
+  waypointRegion="EF" waypointIdent="KOKKO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.4511111" lon="25.0186111"
+  waypointRegion="EF" waypointIdent="KOLIS"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.7538889" lon="29.8491667"
+  waypointRegion="EF" waypointIdent="KONTI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.0516667" lon="28.5622222"
+  waypointRegion="EF" waypointIdent="KONTU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.6875000" lon="22.4652778"
+  waypointRegion="EF" waypointIdent="KOSSU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="66.6816667" lon="25.6544444"
+  waypointRegion="EF" waypointIdent="KUKSA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.4766667" lon="22.1994444"
+  waypointRegion="EF" waypointIdent="KULTA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="67.6113889" lon="25.2427778"
+  waypointRegion="EF" waypointIdent="KUMPU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.9833333" lon="29.2775000"
+  waypointRegion="EF" waypointIdent="KUONA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.6472222" lon="23.2991667"
+  waypointRegion="EF" waypointIdent="KUORA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="68.4361111" lon="27.4058333"
+  waypointRegion="EF" waypointIdent="LAANI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.9772222" lon="27.5272222"
+  waypointRegion="EF" waypointIdent="LAIVO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.5150000" lon="26.3288889"
+  waypointRegion="EF" waypointIdent="LANKA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.9075000" lon="27.8552778"
+  waypointRegion="EF" waypointIdent="LENSU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.3238889" lon="25.2086111"
+  waypointRegion="EF" waypointIdent="LILJA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.2175000" lon="23.3511111"
+  waypointRegion="EF" waypointIdent="LIMPU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.7872222" lon="26.5844444"
+  waypointRegion="EF" waypointIdent="LINJA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.7527778" lon="27.5472222"
+  waypointRegion="EF" waypointIdent="LINKI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.3797222" lon="24.6844444"
+  waypointRegion="EF" waypointIdent="LINTU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.5558333" lon="29.4516667"
+  waypointRegion="EF" waypointIdent="LIPPI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="67.8877778" lon="25.0738889"
+  waypointRegion="EF" waypointIdent="LOUKI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="63.0902778" lon="27.4216667"
+  waypointRegion="EF" waypointIdent="MAANI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="68.8194444" lon="27.5300000"
+  waypointRegion="EF" waypointIdent="MAHLA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="64.1372222" lon="27.4241667"
+  waypointRegion="EF" waypointIdent="MAINU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.2494444" lon="21.9683333"
+  waypointRegion="EF" waypointIdent="MALOP"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.6513889" lon="22.5525000"
+  waypointRegion="EF" waypointIdent="MANSE"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.9277778" lon="28.1669444"
+  waypointRegion="EF" waypointIdent="MELAN"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.9466667" lon="21.5452778"
+  waypointRegion="EF" waypointIdent="MINNE"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.0891667" lon="25.2894444"
+  waypointRegion="EF" waypointIdent="MOKSI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.4216667" lon="24.8244444"
+  waypointRegion="EF" waypointIdent="MULTI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.1833333" lon="25.0225000"
+  waypointRegion="EF" waypointIdent="NOKKA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.6291667" lon="22.0547222"
+  waypointRegion="EF" waypointIdent="NOUSU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.8308333" lon="22.9177778"
+  waypointRegion="EF" waypointIdent="NURMO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.2308333" lon="24.9877778"
+  waypointRegion="EF" waypointIdent="OGELI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.9886111" lon="26.5641667"
+  waypointRegion="EF" waypointIdent="ORAVA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="65.6747222" lon="24.8527778"
+  waypointRegion="EF" waypointIdent="OUKKI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="68.2700000" lon="23.6619444"
+  waypointRegion="EF" waypointIdent="OUNAS"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.5858333" lon="23.7530556"
+  waypointRegion="EF" waypointIdent="PALLO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="64.4236111" lon="27.8447222"
+  waypointRegion="EF" waypointIdent="PALTA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="63.5961111" lon="22.8066667"
+  waypointRegion="EF" waypointIdent="PEDER"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="64.3802778" lon="27.2994444"
+  waypointRegion="EF" waypointIdent="PEHKO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.7450000" lon="25.2405556"
+  waypointRegion="EF" waypointIdent="PIHLA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="64.9477778" lon="25.6788889"
+  waypointRegion="EF" waypointIdent="PILPA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.6019444" lon="25.6116667"
+  waypointRegion="EF" waypointIdent="POHJA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.8444444" lon="29.3169444"
+  waypointRegion="EF" waypointIdent="POLVI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="65.8058333" lon="29.2750000"
+  waypointRegion="EF" waypointIdent="POUSU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.2097222" lon="20.2472222"
+  waypointRegion="EF" waypointIdent="PRAST"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.4880556" lon="23.3261111"
+  waypointRegion="EF" waypointIdent="PURSO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="66.0433333" lon="28.6436111"
+  waypointRegion="EF" waypointIdent="RAITO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.0722222" lon="20.1269444"
+  waypointRegion="EF" waypointIdent="RANBO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.1988889" lon="25.0905556"
+  waypointRegion="EF" waypointIdent="RASTI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.3594444" lon="21.6497222"
+  waypointRegion="EF" waypointIdent="RAUTU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="64.1827778" lon="28.0008333"
+  waypointRegion="EF" waypointIdent="RIMPI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.5350000" lon="27.2838889"
+  waypointRegion="EF" waypointIdent="RISTI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.3736111" lon="24.0333333"
+  waypointRegion="EF" waypointIdent="ROINE"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="65.9469444" lon="24.8994444"
+  waypointRegion="EF" waypointIdent="ROLLO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="66.3816667" lon="25.8733333"
+  waypointRegion="EF" waypointIdent="ROSKA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.2563889" lon="25.6113889"
+  waypointRegion="EF" waypointIdent="RUOKE"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.4197222" lon="25.2441667"
+  waypointRegion="EF" waypointIdent="SAHRA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="64.8463889" lon="25.1105556"
+  waypointRegion="EF" waypointIdent="SIIKA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.6219444" lon="21.7786111"
+  waypointRegion="EF" waypointIdent="SIRMA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.5875000" lon="27.0188889"
+  waypointRegion="EF" waypointIdent="SOLMU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="66.5741667" lon="25.4441667"
+  waypointRegion="EF" waypointIdent="SONKA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.4919444" lon="29.8280556"
+  waypointRegion="EF" waypointIdent="SUHMU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="66.0872222" lon="29.4227778"
+  waypointRegion="EF" waypointIdent="SUINI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="63.8077778" lon="22.8944444"
+  waypointRegion="EF" waypointIdent="SUNDI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.7180556" lon="24.3958333"
+  waypointRegion="EF" waypointIdent="TALVI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.7991667" lon="25.6877778"
+  waypointRegion="EF" waypointIdent="TAPPI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.4047222" lon="26.0519444"
+  waypointRegion="EF" waypointIdent="TARVA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="65.0852778" lon="25.3158333"
+  waypointRegion="EF" waypointIdent="TASKI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="62.9925000" lon="22.0863889"
+  waypointRegion="EF" waypointIdent="TERVA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="67.8641667" lon="24.4097222"
+  waypointRegion="EF" waypointIdent="VAARA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="68.5166667" lon="26.8183333"
+  waypointRegion="EF" waypointIdent="VASKI"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="63.1577778" lon="21.9777778"
+  waypointRegion="EF" waypointIdent="VASSO"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="67.4880556" lon="24.6494444"
+  waypointRegion="EF" waypointIdent="VENHE"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="60.3816667" lon="22.1186111"
+  waypointRegion="EF" waypointIdent="VESPA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.3013889" lon="23.7175000"
+  waypointRegion="EF" waypointIdent="VIILA"
+  magvar="0.0"
+  waypointType="VFR"/>
+
+<Waypoint lat="61.9663889" lon="24.3561111"
+  waypointRegion="EF" waypointIdent="VILPU"
+  magvar="0.0"
+  waypointType="VFR"/>
+
 </FSData>
