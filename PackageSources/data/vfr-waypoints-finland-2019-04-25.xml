@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='ASCII'?>
 <FSData version="9.0">
-  <Waypoint lon="25.0225000" lat="60.1833333" magvar="8.4" waypointType="NAMED" waypointRegion="EF" waypointIdent="NOKKA"/>
+  <Waypoint lon="25.0225000" lat="60.1833333" magvar="8.4" waypointType="VFR" waypointRegion="EF" waypointIdent="NOKKA"/>
 </FSData>
