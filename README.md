@@ -2,10 +2,14 @@
 
 ## Asennus: 
 
+Mikäli käytössä on edellinen "vfr-waypoints-finland-19-04" lisäosa, poista se Community kansiosta ennen asennusta!
+
+
+
 Kopioi tämän zip-tiedoston sisällä oleva vfr-waypoints-finland-2019-04 
 kansio FS2020:n Community-kansioon.
 
-  * Lähde, datan päiväys 25 APR 2019.
+  * Lähde, datan päiväys 22 APR 2021.
   * https://www.ais.fi/fi/tuotteet-ja-palvelut/vfr-ilmoittautumispaikat
 
 Tämä lisäosa on tehty "simple navdata project"-esimerkin pohjalta, ja
@@ -18,10 +22,13 @@ Kiitokset bLindye avusta debuggauksessa!
 
 ## Installation: 
 
-Kopioi tämän zip-tiedoston sisällä oleva vfr-waypoints-finland-2019-04 
-kansio FS2020:n Community-kansioon.
+If you have previous version "vfr-waypoints-finland-2019-04" installed, delete it first from Community folder.
 
-  * Waypoint data 25 APR 2019.
+
+
+Copy "vfr-waypoints-finland" folder from the zip to your Community folder
+
+  * Waypoint data 22 APR 2021.
   * https://www.ais.fi/en/products-and-services/vfr-reporting-points
 
 This add-on was based on the "Simple navdata project" example in the
